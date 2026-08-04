@@ -1,0 +1,7 @@
+C:\Users\91995\source\repos\Pratical_2\Pratical_2\bin\Debug\Pratical_2.exe.config
+C:\Users\91995\source\repos\Pratical_2\Pratical_2\bin\Debug\Pratical_2.exe
+C:\Users\91995\source\repos\Pratical_2\Pratical_2\bin\Debug\Pratical_2.pdb
+C:\Users\91995\source\repos\Pratical_2\Pratical_2\obj\Debug\Pratical_2.csproj.AssemblyReference.cache
+C:\Users\91995\source\repos\Pratical_2\Pratical_2\obj\Debug\Pratical_2.csproj.CoreCompileInputs.cache
+C:\Users\91995\source\repos\Pratical_2\Pratical_2\obj\Debug\Pratical_2.exe
+C:\Users\91995\source\repos\Pratical_2\Pratical_2\obj\Debug\Pratical_2.pdb
